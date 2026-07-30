@@ -8,8 +8,8 @@ spec:
   gitRepo: "https://github.com/toeverything/AFFiNE"
   author: "Sealos"
   description: "A privacy-focused, local-first, open-source workspace for notes, docs, whiteboards, and team knowledge management."
-  readme: "https://gogs.192.168.13.209.nip.io/sealos-admin/templates/raw/main/template/affine/README.md"
-  icon: "https://gogs.192.168.13.209.nip.io/sealos-admin/templates/raw/main/template/affine/logo.png"
+  readme: "https://gogs.192.168.10.70.nip.io/sealos-admin/templates/raw/main/template/affine/README.md"
+  icon: "https://gogs.192.168.10.70.nip.io/sealos-admin/templates/raw/main/template/affine/logo.png"
   templateType: inline
   categories:
     - tool
